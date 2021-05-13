@@ -282,3 +282,16 @@ tags
 
 my_settings.py
 *.csv
+
+
+*.log
+
+*.pot
+
+*.pyc
+
+*/*/*/__pycache__/
+
+*/*/__pycache__/
+
+*/__pycache__/
